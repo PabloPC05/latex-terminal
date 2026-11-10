@@ -1,0 +1,8 @@
+{
+  "name": "latex-terminal",
+  "version": "0.8.0",
+  "description": "Dibuja las fórmulas LaTeX de las respuestas de Claude ($…$, $$…$$, \\(…\\), \\[…\\]) compuestas con LaTeX, como imágenes en la terminal, con un botón para copiar su código.",
+  "author": { "name": "PabloPC05" },
+  "license": "MIT",
+  "repository": "https://github.com/PabloPC05/latex-terminal"
+}
